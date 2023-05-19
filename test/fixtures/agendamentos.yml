@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  empresa: one
+  usuario: one
+  agendamento: 2020-05-30 18:13:20
+
+two:
+  empresa: two
+  usuario: two
+  agendamento: 2020-05-30 18:13:20
